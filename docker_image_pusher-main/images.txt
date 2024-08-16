@@ -1,3 +1,1 @@
-kubesphere/fluent-bit:v1.8.11
-kubesphere/elasticsearch-curator:v5.7.6
-kubesphere/fluentbit-operator:v0.13.0
+registry.cn-beijing.aliyuncs.com/kubesphereio/kube-apiserver:v1.22.12
