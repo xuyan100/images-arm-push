@@ -1,1 +1,1 @@
-kubeedge/cloudcore:v1.19.0
+apache/apisix-dashboard:3.0.1-alpine --platform aarch64
